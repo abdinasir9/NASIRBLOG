@@ -1,0 +1,1 @@
+<small class="text-white-50">&copy;Copyright by Nasir. All rights reserved</small>
